@@ -1,0 +1,6 @@
+{
+  "name": "ITSD DocPortal - Enterprise IT Service Desk Knowledge Base",
+  "description": "Enterprise-grade IT Service Desk documentation portal, information architecture blueprint, and MkDocs knowledge platform designed for rapid retrieval and scalable governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
